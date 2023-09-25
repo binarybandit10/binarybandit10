@@ -1,4 +1,4 @@
-### Hi, I'm [Usman](mailto:captainunknown7@gmail.com) aka Binary Bandit,
+### Hi, I'm [Usman](mailto:binarybandit01) aka Binary Bandit,
 #### A Crazy Curious & Leaner Web Developer, eager to join a team of innovators!
 
 ## Stack 📚

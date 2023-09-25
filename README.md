@@ -7,6 +7,6 @@ Here, you'll find a variety of projects, code snippets, and experiments that I'v
 Contact Me
 If you have any questions, suggestions, or just want to chat about programming and technology, you can reach out to me through:
 
-Email: binarybandit01@example.com
+Email: binarybandit01@yahoo.com
 Twitter: @BinaryBandit01
 Happy coding!

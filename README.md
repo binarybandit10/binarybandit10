@@ -1,5 +1,6 @@
-**About Me
-**Hello, I'm BinaryBandit01, and this is my GitHub repository! 
+**About Me**
+
+Hello, I'm BinaryBandit01, and this is my GitHub repository! 
 I'm a passionate programmer and tech enthusiast, and I love to explore the world of coding.
 Here, you'll find a variety of projects, code snippets, and experiments that I've been working on.
 
